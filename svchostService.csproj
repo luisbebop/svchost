@@ -123,6 +123,10 @@
                     DependentUpon = "svchost.cs"
                     BuildAction = "EmbeddedResource"
                 />
+                <File
+                    RelPath = "svchost.exe.config"
+                    BuildAction = "Content"
+                />
             </Include>
         </Files>
     </CSHARP>
