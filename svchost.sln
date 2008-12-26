@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "svchostService", "svchostService.csproj", "{98A7D52A-8087-4FF8-AFA2-C644439BD915}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureAndSend", "CaptureAndSend\CaptureAndSend.csproj", "{627C48CD-257E-418E-9913-90ABD0141D50}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{98A7D52A-8087-4FF8-AFA2-C644439BD915}.Debug.ActiveCfg = Debug|.NET
+		{98A7D52A-8087-4FF8-AFA2-C644439BD915}.Debug.Build.0 = Debug|.NET
+		{98A7D52A-8087-4FF8-AFA2-C644439BD915}.Release.ActiveCfg = Release|.NET
+		{98A7D52A-8087-4FF8-AFA2-C644439BD915}.Release.Build.0 = Release|.NET
+		{627C48CD-257E-418E-9913-90ABD0141D50}.Debug.ActiveCfg = Debug|.NET
+		{627C48CD-257E-418E-9913-90ABD0141D50}.Debug.Build.0 = Debug|.NET
+		{627C48CD-257E-418E-9913-90ABD0141D50}.Release.ActiveCfg = Release|.NET
+		{627C48CD-257E-418E-9913-90ABD0141D50}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
