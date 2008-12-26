@@ -4,15 +4,15 @@ __"Não perca seu tempo instalando antivirus. Eles são o piores virus que exist
 
 Tenho feito essa afirmação nos últimos 4 anos da minha vida de garoto de programa. As vezes alguns me perguntam qual o melhor antivirus e eu digo nenhum. Uns não entendem, outros começam a discutir e outros acham que eu estou falando abrobrinha. Tolos. Para provar criei esse programa em 2006, em C# e dotnet 1.1, que ao instalado na máquina fica tirando screenshots da máquina em que está instalado e enviando para um ftp de sua escolha em um tempo pré determinado. Já passou no teste de dezenas de anti-virus e é praticamente indetectável. Funciona que é uma beleza, na rede local :)
 
-__[modo polishop on]
+__(modo polishop on)
 
 E não é só isso!
 Se você tem dúvida que seu companheiro de relacionamento está te sacaneando ou quer só espionar aquele membro da equipe folgado, que vc sabe que não está fazendo nada, só matando tempo e na sua frente faz se parecer a pessoa mais esforçada e estudiosa do planeta, esse programa é para você. Agora você pode espiona-lo 24 horas por dia sem nenhum esforço na tranqualidade do seu pc.
 
-[/modo polishop off]__ 
+__(/modo polishop off) 
 
 E antes de pensar em usá-lo, para não vir me chingar depois, lembre-se:
-"A ignorância é uma benção" [http://www.interney.net/blogs/inagaki/2008/03/04/o_poder_da_ignorancia/]
+"A ignorância é uma benção" (http://www.interney.net/blogs/inagaki/2008/03/04/o_poder_da_ignorancia/)
 ======
 
 Instalação
